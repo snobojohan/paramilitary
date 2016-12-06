@@ -1,0 +1,22 @@
+{
+  "name": "paramilitary",
+  "version": "1.0.0",
+  "description": "Stateless and uncanny",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snobojohan/paramilitary.git"
+  },
+  "keywords": [
+    "stateless"
+  ],
+  "author": "snobojohan",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/snobojohan/paramilitary/issues"
+  },
+  "homepage": "https://github.com/snobojohan/paramilitary#readme"
+}
