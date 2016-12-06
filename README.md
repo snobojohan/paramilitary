@@ -1,3 +1,3 @@
-# paramilitary.js
+# Paramilitary
 
 Stateless and uncanny
